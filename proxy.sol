@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
 
+// https://github.com/dikegor495/
+
+
 contract Proxy {
     event Deploy(address);
 
